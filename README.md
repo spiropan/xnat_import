@@ -21,4 +21,4 @@ To get started:
      https://wiki.xnat.org/display/XNAT16/XNAT+REST+XML+Path+Shortcuts   Useful to set common attributes (metadata) in XNAT
      https://pythonhosted.org/pyxnat/features/files.html                 Useful for transfering files
 
-Short challenge: After reading through the above documentation (and maybe some additional googling) use pyxnat to connect to https://central.xnat.org/ (you may need to sign up for a guest account) and download a T1 structural image from the CENTRAL_OASIS_CS project to your laptop, and view it with fslview
+Short challenge: After reading through the above documentation (4a and maybe some additional googling) use pyxnat to connect to https://central.xnat.org/ (you may need to sign up for a guest account) and select and print out all the subject_ids included in the  CENTRAL_OASIS_CS project
