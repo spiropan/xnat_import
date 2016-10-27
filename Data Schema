@@ -12,4 +12,4 @@ The example uses NKI RS sample
 
 % Scan Types and labels
 T1     - for anatomical T1 scans
-rest   - for resting state scans
+func_rest   - for resting state scans
