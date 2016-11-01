@@ -1,0 +1,15 @@
+% The below are guidelines for naming projects, subjects and experiment session when importing data into XNAT. 
+The example uses NKI RS sample
+
+% project
+"NKI"
+
+% subject
+"NKIsubID" where subID is the original subject identifier from the downloaded data source
+
+% experiment session
+"NKIsubID_MR1"  
+
+% Scan Types and labels
+T1     - for anatomical T1 scans
+func_rest   - for resting state scans
