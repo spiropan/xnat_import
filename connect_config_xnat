@@ -6,4 +6,5 @@ import pyxnat
     
 >>> central.save_config('/path/to/central.cfg')
 
+# now you can connect by just specifying the path to the configuratino file
 >>> central = Interface(config='/path/to/central.cfg')
