@@ -1,0 +1,9 @@
+import pyxnat
+
+>>> central = Interface(server="https://central.xnat.org")
+    User:my_login
+    Password:
+    
+>>> central.save_config('/path/to/central.cfg')
+
+>>> central = Interface(config='/path/to/central.cfg')
