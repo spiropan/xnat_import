@@ -5,7 +5,7 @@ To get started:
 1) Familiarize yourself with neuroimaging data   
    http://miykael.github.io/nipype-beginner-s-guide/neuroimaging.html
 
-2) Install FSL (http://fsl.fmrib.ox.ac.uk/fsldownloads/fsldownloadmain.html)
+2) Install FSL (https://fsl.fmrib.ox.ac.uk/fsldownloads_registration)
    FSL is a popular brain imaging analysis software that includes useful command line tools such as 
    a) fslview           image viewer 
    b) fslreorient2std   reorient images to a standard orientation (so that images all face the same way when viewed
